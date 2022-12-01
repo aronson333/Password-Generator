@@ -1,5 +1,12 @@
 # Password-Generator
 
+The password generator prompts you after clicking generate password to enter how many characters you would like to be in the password between 8 and 128. If you choose a number outside of those parameters it will display a message telling you the password must be between 8 and 128 characters. After choosing the amount of characters you will be if you would like capital letters, then lowercase letters, then numbers and then special characters.once all of the option have been selected it will generate your new password.
+
+
+
+
+
+
 # 03 JavaScript: Password Generator
 
 ## Your Task
